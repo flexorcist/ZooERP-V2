@@ -1,27 +1,46 @@
 Архитектура приложения:
 
 ZooERP.Domain/ ----------------- Доменное ядро без зависимостей
+
 	Common/ ---------------- Базовые типы (Entity, ValueObject, IDomainEvent, IAggregateRoot...)
+ 
 	Animals/ --------------- Агрегат "Животные"
+ 
 	Enclosures/ ------------ Агрегат "Клетки"
+ 
 	Feeding/ --------------- Агрегат "Расписание кормлений"
+ 
 	Events/ ---------------- Доменные события
+ 
 	Repositories/ ---------- Репозитории
 
+
 ZooERP.Application/ ------------ Use cases
+
 	DTOs/ ------------------ Входные/выходные модели API
+ 
 	Services/ -------------- Use‑case сервисы: интерфейсы + реализации
+ 
 	Mappings/ -------------- AutoMapper + резолверы
+ 
 	DI/ -------------------- DependencyInjection
+ 
 
 ZooERP.Infrastructure/ --------- Техническая реализация (In‑memory, внешние сервисы)
+
 	Persistence/ ----------- In‑memory репозитории
+ 
 	Services/ -------------- Внешние сервисы
+ 
 	DI/ -------------------- DependencyInjection
+ 
 
 ZooERP.ERPzooV2/ --------------- Веб‑слой
+
 	Controllers/ ----------- REST‑контроллеры
+ 
 	Program.cs ------------- Настройка хоста, DI, Swagger, маппинг маршрутов
+ 
 
 
 
