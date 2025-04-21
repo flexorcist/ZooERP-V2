@@ -1,0 +1,1176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\common\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\common\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\enclosures\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\enclosures\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\ERPzooV2.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\erpzoov2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\ERPzooV2.csproj|solutionrelative:erpzoov2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\Presentation.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\erpzoov2\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\Presentation.csproj|solutionrelative:erpzoov2\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\Presentation.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\erpzoov2\\controllers\\speciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\Presentation.csproj|solutionrelative:erpzoov2\\controllers\\speciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\Presentation.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\erpzoov2\\controllers\\feedingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\Presentation.csproj|solutionrelative:erpzoov2\\controllers\\feedingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\Presentation.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\erpzoov2\\controllers\\enclosurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\Presentation.csproj|solutionrelative:erpzoov2\\controllers\\enclosurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\Presentation.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\erpzoov2\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80279B0E-2549-4386-A9C2-E21F90B2446E}|ERPzooV2\\Presentation.csproj|solutionrelative:erpzoov2\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\infrastructure\\services\\veterinaryclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\veterinaryclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\infrastructure\\services\\iveterinaryclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\iveterinaryclinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\infrastructure\\services\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\infrastructure\\persistence\\inmemoryfeedingschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\inmemoryfeedingschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\infrastructure\\persistence\\inmemoryenclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\inmemoryenclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\infrastructure\\persistence\\inmemoryanimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\inmemoryanimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\infrastructure\\di\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02993EA-14C6-43C9-A014-DA6A50A5E4EE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\di\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\repositories\\ifeedingschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ifeedingschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\repositories\\ienclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ienclosurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\repositories\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\feeding\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\feeding\\foodtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\feeding\\feedingtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\feeding\\feedingtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\feeding\\feedingscheduleid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\feeding\\feedingscheduleid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\feeding\\feedingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\feeding\\feedingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\events\\feedingtimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\events\\feedingtimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\events\\enclosurecleanedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\events\\enclosurecleanedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\events\\animaltreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\events\\animaltreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\events\\animalmovedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\events\\animalmovedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\events\\animalfedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\events\\animalfedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\enclosures\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\enclosures\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\enclosures\\enclosureid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\enclosures\\enclosureid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\animals\\species.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\animals\\species.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\animals\\predator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\animals\\predator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\animals\\ianimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\animals\\ianimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\animals\\herbivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\animals\\herbivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\animals\\genericpredator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\animals\\genericpredator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\animals\\genericherbivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\animals\\genericherbivore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\animals\\foodconsumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\animals\\foodconsumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\animals\\animalname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\animals\\animalname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\animals\\animalid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\animals\\animalid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\domain\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43ADBD8-9289-40D1-8586-C1FDEFFC428C}|Domain\\Domain.csproj|solutionrelative:domain\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\zoostatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\zoostatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\speciesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\speciesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\izoostatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\izoostatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\ispeciesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\ispeciesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\ifeedingorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\ifeedingorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\ienclosuremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\ienclosuremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\ianimaltransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\ianimaltransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\ianimalmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\ianimalmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\feedingorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\feedingorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\enclosuremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\enclosuremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\animaltransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\animaltransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\services\\animalmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\services\\animalmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\mapping\\kindnessresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\mapping\\kindnessresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\mapping\\domaintodtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\mapping\\domaintodtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\mapping\\cancontactresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\mapping\\cancontactresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\dtos\\zoostatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\dtos\\zoostatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\dtos\\transferanimalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\dtos\\transferanimalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\dtos\\registerspeciesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\dtos\\registerspeciesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\dtos\\feedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\dtos\\feedingscheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\dtos\\enclosuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\dtos\\enclosuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\dtos\\createfeedingschedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\dtos\\createfeedingschedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\dtos\\createenclosurerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\dtos\\createenclosurerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\dtos\\createanimalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\dtos\\createanimalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\dtos\\addanimaltoenclosurerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\dtos\\addanimaltoenclosurerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|c:\\users\\evgen\\source\\repos\\erpzoov2\\application\\di\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B7C0E4-D087-4F6A-A43E-D10788888142}|Application\\Application.csproj|solutionrelative:application\\di\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Controllers\\StatisticsController.cs",
+              "RelativeDocumentMoniker": "ERPzooV2\\Controllers\\StatisticsController.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Controllers\\StatisticsController.cs",
+              "RelativeToolTip": "ERPzooV2\\Controllers\\StatisticsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:11:12.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpeciesController.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Controllers\\SpeciesController.cs",
+              "RelativeDocumentMoniker": "ERPzooV2\\Controllers\\SpeciesController.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Controllers\\SpeciesController.cs",
+              "RelativeToolTip": "ERPzooV2\\Controllers\\SpeciesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:11:10.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeedingController.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Controllers\\FeedingController.cs",
+              "RelativeDocumentMoniker": "ERPzooV2\\Controllers\\FeedingController.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Controllers\\FeedingController.cs",
+              "RelativeToolTip": "ERPzooV2\\Controllers\\FeedingController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:11:08.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Program.cs",
+              "RelativeDocumentMoniker": "ERPzooV2\\Program.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Program.cs",
+              "RelativeToolTip": "ERPzooV2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:43:55.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enclosure.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Enclosures\\Enclosure.cs",
+              "RelativeDocumentMoniker": "Domain\\Enclosures\\Enclosure.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Enclosures\\Enclosure.cs",
+              "RelativeToolTip": "Domain\\Enclosures\\Enclosure.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Common\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Common\\IAggregateRoot.cs",
+              "RelativeToolTip": "Domain\\Common\\IAggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:25.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnclosuresController.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Controllers\\EnclosuresController.cs",
+              "RelativeDocumentMoniker": "ERPzooV2\\Controllers\\EnclosuresController.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Controllers\\EnclosuresController.cs",
+              "RelativeToolTip": "ERPzooV2\\Controllers\\EnclosuresController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:11:06.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Controllers\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "ERPzooV2\\Controllers\\AnimalsController.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\ERPzooV2\\Controllers\\AnimalsController.cs",
+              "RelativeToolTip": "ERPzooV2\\Controllers\\AnimalsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:11:03.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VeterinaryClinic.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Services\\VeterinaryClinic.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\VeterinaryClinic.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Services\\VeterinaryClinic.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\VeterinaryClinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:52.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IVeterinaryClinic.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Services\\IVeterinaryClinic.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\IVeterinaryClinic.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Services\\IVeterinaryClinic.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\IVeterinaryClinic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:50.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnimalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Services\\AnimalFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AnimalFactory.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Services\\AnimalFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AnimalFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:43.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InMemoryFeedingScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Persistence\\InMemoryFeedingScheduleRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\InMemoryFeedingScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Persistence\\InMemoryFeedingScheduleRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\InMemoryFeedingScheduleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:40.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InMemoryEnclosureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Persistence\\InMemoryEnclosureRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\InMemoryEnclosureRepository.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Persistence\\InMemoryEnclosureRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\InMemoryEnclosureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:38.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InMemoryAnimalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Persistence\\InMemoryAnimalRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\InMemoryAnimalRepository.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\Persistence\\InMemoryAnimalRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\InMemoryAnimalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:35.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InfrastructureModule.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\DI\\InfrastructureModule.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DI\\InfrastructureModule.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Infrastructure\\DI\\InfrastructureModule.cs",
+              "RelativeToolTip": "Infrastructure\\DI\\InfrastructureModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:23.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFeedingScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Repositories\\IFeedingScheduleRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IFeedingScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Repositories\\IFeedingScheduleRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IFeedingScheduleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:21.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEnclosureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Repositories\\IEnclosureRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IEnclosureRepository.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Repositories\\IEnclosureRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IEnclosureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:20.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAnimalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Repositories\\IAnimalRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IAnimalRepository.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Repositories\\IAnimalRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IAnimalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FoodType.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Feeding\\FoodType.cs",
+              "RelativeDocumentMoniker": "Domain\\Feeding\\FoodType.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Feeding\\FoodType.cs",
+              "RelativeToolTip": "Domain\\Feeding\\FoodType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:17.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FeedingTime.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Feeding\\FeedingTime.cs",
+              "RelativeDocumentMoniker": "Domain\\Feeding\\FeedingTime.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Feeding\\FeedingTime.cs",
+              "RelativeToolTip": "Domain\\Feeding\\FeedingTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:15.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FeedingScheduleId.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Feeding\\FeedingScheduleId.cs",
+              "RelativeDocumentMoniker": "Domain\\Feeding\\FeedingScheduleId.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Feeding\\FeedingScheduleId.cs",
+              "RelativeToolTip": "Domain\\Feeding\\FeedingScheduleId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:14.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FeedingSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Feeding\\FeedingSchedule.cs",
+              "RelativeDocumentMoniker": "Domain\\Feeding\\FeedingSchedule.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Feeding\\FeedingSchedule.cs",
+              "RelativeToolTip": "Domain\\Feeding\\FeedingSchedule.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:11.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FeedingTimeEvent.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Events\\FeedingTimeEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\FeedingTimeEvent.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Events\\FeedingTimeEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\FeedingTimeEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:10.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnclosureCleanedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Events\\EnclosureCleanedEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\EnclosureCleanedEvent.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Events\\EnclosureCleanedEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\EnclosureCleanedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:09.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AnimalTreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Events\\AnimalTreatedEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\AnimalTreatedEvent.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Events\\AnimalTreatedEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\AnimalTreatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:08.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AnimalMovedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Events\\AnimalMovedEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\AnimalMovedEvent.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Events\\AnimalMovedEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\AnimalMovedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:07.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AnimalFedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Events\\AnimalFedEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\AnimalFedEvent.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Events\\AnimalFedEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\AnimalFedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:06.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Enclosures\\Size.cs",
+              "RelativeDocumentMoniker": "Domain\\Enclosures\\Size.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Enclosures\\Size.cs",
+              "RelativeToolTip": "Domain\\Enclosures\\Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T16:59:17.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EnclosureId.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Enclosures\\EnclosureId.cs",
+              "RelativeDocumentMoniker": "Domain\\Enclosures\\EnclosureId.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Enclosures\\EnclosureId.cs",
+              "RelativeToolTip": "Domain\\Enclosures\\EnclosureId.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:59.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Common\\ValueObject.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Common\\ValueObject.cs",
+              "RelativeToolTip": "Domain\\Common\\ValueObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:45.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Common\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Common\\IDomainEvent.cs",
+              "RelativeToolTip": "Domain\\Common\\IDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:43.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Common\\Entity.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\Entity.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Common\\Entity.cs",
+              "RelativeToolTip": "Domain\\Common\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:22.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Species.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\Species.cs",
+              "RelativeDocumentMoniker": "Domain\\Animals\\Species.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\Species.cs",
+              "RelativeToolTip": "Domain\\Animals\\Species.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:18.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Predator.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\Predator.cs",
+              "RelativeDocumentMoniker": "Domain\\Animals\\Predator.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\Predator.cs",
+              "RelativeToolTip": "Domain\\Animals\\Predator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:17.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IAnimalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\IAnimalFactory.cs",
+              "RelativeDocumentMoniker": "Domain\\Animals\\IAnimalFactory.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\IAnimalFactory.cs",
+              "RelativeToolTip": "Domain\\Animals\\IAnimalFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:17.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Herbivore.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\Herbivore.cs",
+              "RelativeDocumentMoniker": "Domain\\Animals\\Herbivore.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\Herbivore.cs",
+              "RelativeToolTip": "Domain\\Animals\\Herbivore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:15.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GenericPredator.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\GenericPredator.cs",
+              "RelativeDocumentMoniker": "Domain\\Animals\\GenericPredator.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\GenericPredator.cs",
+              "RelativeToolTip": "Domain\\Animals\\GenericPredator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:15.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GenericHerbivore.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\GenericHerbivore.cs",
+              "RelativeDocumentMoniker": "Domain\\Animals\\GenericHerbivore.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\GenericHerbivore.cs",
+              "RelativeToolTip": "Domain\\Animals\\GenericHerbivore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:14.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FoodConsumption.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\FoodConsumption.cs",
+              "RelativeDocumentMoniker": "Domain\\Animals\\FoodConsumption.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\FoodConsumption.cs",
+              "RelativeToolTip": "Domain\\Animals\\FoodConsumption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:13.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AnimalName.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\AnimalName.cs",
+              "RelativeDocumentMoniker": "Domain\\Animals\\AnimalName.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\AnimalName.cs",
+              "RelativeToolTip": "Domain\\Animals\\AnimalName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:12.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AnimalId.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\AnimalId.cs",
+              "RelativeDocumentMoniker": "Domain\\Animals\\AnimalId.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\AnimalId.cs",
+              "RelativeToolTip": "Domain\\Animals\\AnimalId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:09:09.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "Domain\\Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Domain\\Animals\\Animal.cs",
+              "RelativeToolTip": "Domain\\Animals\\Animal.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:08:35.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ZooStatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\ZooStatisticsService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ZooStatisticsService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\ZooStatisticsService.cs",
+              "RelativeToolTip": "Application\\Services\\ZooStatisticsService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:08:30.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SpeciesService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\SpeciesService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\SpeciesService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\SpeciesService.cs",
+              "RelativeToolTip": "Application\\Services\\SpeciesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:08:29.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IZooStatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\IZooStatisticsService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IZooStatisticsService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\IZooStatisticsService.cs",
+              "RelativeToolTip": "Application\\Services\\IZooStatisticsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:08:28.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ISpeciesService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\ISpeciesService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ISpeciesService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\ISpeciesService.cs",
+              "RelativeToolTip": "Application\\Services\\ISpeciesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:08:27.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IFeedingOrganizationService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\IFeedingOrganizationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IFeedingOrganizationService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\IFeedingOrganizationService.cs",
+              "RelativeToolTip": "Application\\Services\\IFeedingOrganizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:08:27.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IEnclosureManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\IEnclosureManagementService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IEnclosureManagementService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\IEnclosureManagementService.cs",
+              "RelativeToolTip": "Application\\Services\\IEnclosureManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:08:25.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IAnimalTransferService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\IAnimalTransferService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IAnimalTransferService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\IAnimalTransferService.cs",
+              "RelativeToolTip": "Application\\Services\\IAnimalTransferService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:08:25.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IAnimalManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\IAnimalManagementService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\IAnimalManagementService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\IAnimalManagementService.cs",
+              "RelativeToolTip": "Application\\Services\\IAnimalManagementService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:08:23.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FeedingOrganizationService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\FeedingOrganizationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\FeedingOrganizationService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\FeedingOrganizationService.cs",
+              "RelativeToolTip": "Application\\Services\\FeedingOrganizationService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:08:21.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EnclosureManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\EnclosureManagementService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\EnclosureManagementService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\EnclosureManagementService.cs",
+              "RelativeToolTip": "Application\\Services\\EnclosureManagementService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:54.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AnimalTransferService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\AnimalTransferService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AnimalTransferService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\AnimalTransferService.cs",
+              "RelativeToolTip": "Application\\Services\\AnimalTransferService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:19.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AnimalManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\AnimalManagementService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AnimalManagementService.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Services\\AnimalManagementService.cs",
+              "RelativeToolTip": "Application\\Services\\AnimalManagementService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:16.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "KindnessResolver.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Mapping\\KindnessResolver.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\KindnessResolver.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Mapping\\KindnessResolver.cs",
+              "RelativeToolTip": "Application\\Mapping\\KindnessResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:13.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DomainToDtoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Mapping\\DomainToDtoProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\DomainToDtoProfile.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Mapping\\DomainToDtoProfile.cs",
+              "RelativeToolTip": "Application\\Mapping\\DomainToDtoProfile.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:11.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CanContactResolver.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Mapping\\CanContactResolver.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\CanContactResolver.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\Mapping\\CanContactResolver.cs",
+              "RelativeToolTip": "Application\\Mapping\\CanContactResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:10.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ZooStatisticsDto.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\ZooStatisticsDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ZooStatisticsDto.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\ZooStatisticsDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ZooStatisticsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:07.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TransferAnimalRequest.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\TransferAnimalRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TransferAnimalRequest.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\TransferAnimalRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\TransferAnimalRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:06.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RegisterSpeciesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\RegisterSpeciesRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RegisterSpeciesRequest.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\RegisterSpeciesRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\RegisterSpeciesRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:06.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FeedingScheduleDto.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\FeedingScheduleDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\FeedingScheduleDto.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\FeedingScheduleDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\FeedingScheduleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:05.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EnclosureDto.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\EnclosureDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\EnclosureDto.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\EnclosureDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\EnclosureDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:04.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreateFeedingScheduleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\CreateFeedingScheduleRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CreateFeedingScheduleRequest.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\CreateFeedingScheduleRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\CreateFeedingScheduleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:04.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CreateEnclosureRequest.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\CreateEnclosureRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CreateEnclosureRequest.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\CreateEnclosureRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\CreateEnclosureRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:03.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CreateAnimalRequest.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\CreateAnimalRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CreateAnimalRequest.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\CreateAnimalRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\CreateAnimalRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:02.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AnimalDto.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\AnimalDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\AnimalDto.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\AnimalDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\AnimalDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:01.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AddAnimalToEnclosureRequest.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\AddAnimalToEnclosureRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\AddAnimalToEnclosureRequest.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DTOs\\AddAnimalToEnclosureRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\AddAnimalToEnclosureRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:07:00.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ApplicationModule.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DI\\ApplicationModule.cs",
+              "RelativeDocumentMoniker": "Application\\DI\\ApplicationModule.cs",
+              "ToolTip": "C:\\Users\\evgen\\source\\repos\\ERPzooV2\\Application\\DI\\ApplicationModule.cs",
+              "RelativeToolTip": "Application\\DI\\ApplicationModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:06:56.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

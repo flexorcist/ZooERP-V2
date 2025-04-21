@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ERPzooV2.props" />
+</Project>
